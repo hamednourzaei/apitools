@@ -1,0 +1,461 @@
+[
+  {
+    "id": "en1",
+    "image": "https://ui-avatars.com/api/?name=Ali+Rezaei",
+    "name": "Ali Rezaei",
+    "role": "Digital Marketer, Iran",
+    "comment": "Using the SEO tools from this site, my website's ranking improved significantly within two weeks!",
+    "rating": 4.8,
+    "url": "https://www.daneshjooyar.com/free-photoshop-course/"
+  },
+  {
+    "id": "en2",
+    "image": "https://ui-avatars.com/api/?name=Sara+Mohammadi",
+    "name": "Sara Mohammadi",
+    "role": "Web Designer, Iran",
+    "comment": "The Photoshop tutorials helped me optimize my client's site visuals, boosting engagement in just days.",
+    "rating": 4.9,
+    "url": "https://sariasan.com/free-photoshop-tutorials/"
+  },
+  {
+    "id": "en3",
+    "image": "https://ui-avatars.com/api/?name=John+Smith",
+    "name": "John Smith",
+    "role": "Photographer, UK",
+    "comment": "These tutorials doubled my site's traffic by improving image quality in a month!",
+    "rating": 4.7,
+    "url": "https://bitgraph.ir/photoshop-tutorials/"
+  },
+  {
+    "id": "en4",
+    "image": "https://ui-avatars.com/api/?name=Reza+Karimi",
+    "name": "Reza Karimi",
+    "role": "Programmer, Iran",
+    "comment": "The Python course on this site helped me build a web app that ranked on Google in three weeks.",
+    "rating": 5.0,
+    "url": "https://epsoft.ir/learning-python-sixth-edition/"
+  },
+  {
+    "id": "en5",
+    "image": "https://ui-avatars.com/api/?name=Maryam+Ebrahimi",
+    "name": "Maryam Ebrahimi",
+    "role": "Developer, Iran",
+    "comment": "Thanks to their Django tutorials, my site's performance improved dramatically in a month.",
+    "rating": 4.8,
+    "url": "https://p30download.ir/fa/entry/87847/"
+  },
+  {
+    "id": "en6",
+    "image": "https://ui-avatars.com/api/?name=Emma+Wilson",
+    "name": "Emma Wilson",
+    "role": "Coder, USA",
+    "comment": "The Python guides helped my site get indexed faster, seeing results in just 10 days!",
+    "rating": 4.9,
+    "url": "https://www.roshd.ir/python-tutorials/"
+  },
+  {
+    "id": "en7",
+    "image": "https://ui-avatars.com/api/?name=Hossein+Azizi",
+    "name": "Hossein Azizi",
+    "role": "Agricultural Engineer, Iran",
+    "comment": "This site's resources helped my blog on climate change rank on page one in a month.",
+    "rating": 4.7,
+    "url": "https://www.parsbook.com/agriculture-books/"
+  },
+  {
+    "id": "en8",
+    "image": "https://ui-avatars.com/api/?name=Fatemeh+Rahimi",
+    "name": "Fatemeh Rahimi",
+    "role": "Blogger, Iran",
+    "comment": "My agriculture blog saw a 40% traffic increase in two months using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://www.keshavarzi.ir/climate-change-agriculture/"
+  },
+  {
+    "id": "en9",
+    "image": "https://ui-avatars.com/api/?name=Amir+Hosseinzadeh",
+    "name": "Amir Hosseinzadeh",
+    "role": "Medical Researcher, Iran",
+    "comment": "The Alzheimer’s research articles helped my site gain authority in one month.",
+    "rating": 5.0,
+    "url": "https://pezeshket.com/alzheimer-treatment/"
+  },
+  {
+    "id": "en10",
+    "image": "https://ui-avatars.com/api/?name=Ehsan+Moradi",
+    "name": "Ehsan Moradi",
+    "role": "Web Developer, Iran",
+    "comment": "Their SEO techniques improved my client’s site ranking in just 10 days!",
+    "rating": 4.9,
+    "url": "https://www.web24.ir/web-design/"
+  },
+  {
+    "id": "en11",
+    "image": "https://ui-avatars.com/api/?name=Maryam+Shariati",
+    "name": "Maryam Shariati",
+    "role": "SEO Specialist, Iran",
+    "comment": "The web design guide helped my site achieve top Google rankings in three weeks.",
+    "rating": 5.0,
+    "url": "https://www.seor.ir/corporate-website-design/"
+  },
+  {
+    "id": "en12",
+    "image": "https://ui-avatars.com/api/?name=Behnam+Shokri",
+    "name": "Behnam Shokri",
+    "role": "Accountant, Iran",
+    "comment": "The tax advice on this site saved my business thousands in just one month.",
+    "rating": 4.7,
+    "url": "https://www.hesabdar.ir/free-tax-consulting/"
+  },
+  {
+    "id": "en13",
+    "image": "https://ui-avatars.com/api/?name=Shirin+Farhadi",
+    "name": "Shirin Farhadi",
+    "role": "Business Owner, Iran",
+    "comment": "Their tax consulting tips improved my site’s credibility in two weeks.",
+    "rating": 4.9,
+    "url": "https://www.maliat.ir/tax-advice/"
+  },
+  {
+    "id": "en14",
+    "image": "https://ui-avatars.com/api/?name=Laura+Davis",
+    "name": "Laura Davis",
+    "role": "Financial Advisor, USA",
+    "comment": "My financial blog’s traffic increased by 25% in a month using their advice.",
+    "rating": 4.8,
+    "url": "https://www.tax.gov.ir/"
+  },
+  {
+    "id": "en15",
+    "image": "https://ui-avatars.com/api/?name=Parham+Khademi",
+    "name": "Parham Khademi",
+    "role": "Health Consultant, Iran",
+    "comment": "The vitamin D content helped my site rank higher in just two weeks.",
+    "rating": 4.7,
+    "url": "https://pezeshket.com/vitamin-d-deficiency/"
+  },
+  {
+    "id": "en16",
+    "image": "https://ui-avatars.com/api/?name=Atefeh+Ghorbani",
+    "name": "Atefeh Ghorbani",
+    "role": "Nutritionist, Iran",
+    "comment": "My health blog saw a 35% traffic boost in one month thanks to their tips.",
+    "rating": 4.9,
+    "url": "https://www.salamatnews.com/vitamin-d/"
+  },
+  {
+    "id": "en17",
+    "image": "https://ui-avatars.com/api/?name=Mohammad+Jafari",
+    "name": "Mohammad Jafari",
+    "role": "Dentist, Iran",
+    "comment": "The dental clinic guide increased my site’s bookings by 20% in a month.",
+    "rating": 5.0,
+    "url": "https://www.dentalclinics.ir/tehran/"
+  },
+  {
+    "id": "en18",
+    "image": "https://ui-avatars.com/api/?name=Nazanin+Shariati",
+    "name": "Nazanin Shariati",
+    "role": "Dental Blogger, Iran",
+    "comment": "My dental blog’s traffic surged in two weeks using their SEO advice.",
+    "rating": 4.7,
+    "url": "https://www.nobat.ir/dentists/tehran/"
+  },
+  {
+    "id": "en19",
+    "image": "https://ui-avatars.com/api/?name=Thomas+Lee",
+    "name": "Thomas Lee",
+    "role": "Dental Consultant, USA",
+    "comment": "This site’s dental resources boosted my site’s ranking in just 10 days.",
+    "rating": 4.9,
+    "url": "https://www.pezeshkonline.ir/dental-clinics/"
+  },
+  {
+    "id": "en20",
+    "image": "https://ui-avatars.com/api/?name=Arash+Dehghani",
+    "name": "Arash Dehghani",
+    "role": "Nutritionist, Iran",
+    "comment": "The diet plan content helped my site gain 30% more visitors in a month.",
+    "rating": 4.8,
+    "url": "https://www.salamatnews.com/diet-plan/"
+  },
+  {
+    "id": "en21",
+    "image": "https://ui-avatars.com/api/?name=Vahid+Shariati",
+    "name": "Vahid Shariati",
+    "role": "Physical Therapist, Iran",
+    "comment": "The back pain exercises increased my site’s engagement in just one month.",
+    "rating": 4.8,
+    "url": "https://www.pezeshket.com/back-pain-exercises/"
+  },
+  {
+    "id": "en22",
+    "image": "https://ui-avatars.com/api/?name=Sahar+Alavi",
+    "name": "Sahar Alavi",
+    "role": "Health Writer, Iran",
+    "comment": "My blog’s traffic grew by 25% in two weeks thanks to their exercise tips.",
+    "rating": 4.7,
+    "url": "https://www.varzesh3.com/back-pain-workouts/"
+  },
+  {
+    "id": "en23",
+    "image": "https://ui-avatars.com/api/?name=Kaveh+Mirzaei",
+    "name": "Kaveh Mirzaei",
+    "role": "Nutritionist, Iran",
+    "comment": "The intermittent fasting guide boosted my site’s traffic by 30% in a month.",
+    "rating": 5.0,
+    "url": "https://www.salamatnews.com/intermittent-fasting/"
+  },
+  {
+    "id": "en24",
+    "image": "https://ui-avatars.com/api/?name=Behzad+Ghasemi",
+    "name": "Behzad Ghasemi",
+    "role": "Tech Blogger, Iran",
+    "comment": "The phone comparison guide doubled my site’s traffic in one month!",
+    "rating": 4.9,
+    "url": "https://epsoft.ir/crypto-trading-guide/"
+  },
+  {
+    "id": "en25",
+    "image": "https://ui-avatars.com/api/?name=Mahsa+Shariati",
+    "name": "Mahsa Shariati",
+    "role": "Style Writer, Iran",
+    "comment": "My fashion blog’s ranking improved in two weeks using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://www.virgool.io/hair-trends-2024/"
+  },
+  {
+    "id": "en26",
+    "image": "https://ui-avatars.com/api/?name=Behzad+Moradi",
+    "name": "Behzad Moradi",
+    "role": "Interior Designer, Iran",
+    "comment": "The minimal decor guide increased my site’s traffic by 30% in a month.",
+    "rating": 4.7,
+    "url": "https://www.banoumagazine.com/minimal-decor/"
+  },
+  {
+    "id": "en27",
+    "image": "https://ui-avatars.com/api/?name=Mohsen+Rezaei",
+    "name": "Mohsen Rezaei",
+    "role": "Food Blogger, Iran",
+    "comment": "The dessert recipes doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.ashpazbashy.com/easy-desserts/"
+  },
+  {
+    "id": "en28",
+    "image": "https://ui-avatars.com/api/?name=Amir+Moradi",
+    "name": "Amir Moradi",
+    "role": "Coffee Blogger, Iran",
+    "comment": "The Dalgona coffee recipe increased my site’s traffic by 35% in a month.",
+    "rating": 4.9,
+    "url": "https://www.ashpazbashy.com/dalgona-recipe/"
+  },
+  {
+    "id": "en29",
+    "image": "https://ui-avatars.com/api/?name=Behnam+Ahmadi",
+    "name": "Behnam Ahmadi",
+    "role": "Food Writer, Iran",
+    "comment": "The healthy dinner recipes doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.ashpazbashy.com/quick-dinner/"
+  },
+  {
+    "id": "en30",
+    "image": "https://ui-avatars.com/api/?name=Vahid+Azizi",
+    "name": "Vahid Azizi",
+    "role": "Psychologist, Iran",
+    "comment": "The stress management guide increased my site’s traffic by 30% in a month.",
+    "rating": 4.7,
+    "url": "https://www.virgool.io/stress-management/"
+  },
+  {
+    "id": "en31",
+    "image": "https://ui-avatars.com/api/?name=Kaveh+Rezaei",
+    "name": "Kaveh Rezaei",
+    "role": "Motivational Speaker, Iran",
+    "comment": "The confidence guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.virgool.io/self-confidence/"
+  },
+  {
+    "id": "en32",
+    "image": "https://ui-avatars.com/api/?name=Behzad+Shokri",
+    "name": "Behzad Shokri",
+    "role": "Student Advisor, Iran",
+    "comment": "The time management guide increased my site’s traffic by 35% in a month.",
+    "rating": 4.9,
+    "url": "https://www.daneshjooyar.com/time-management/"
+  },
+  {
+    "id": "en33",
+    "image": "https://ui-avatars.com/api/?name=Shiva+Karimi",
+    "name": "Shiva Karimi",
+    "role": "Education Blogger, Iran",
+    "comment": "My time management blog’s ranking soared in two weeks with their strategies.",
+    "rating": 4.8,
+    "url": "https://www.virgool.io/time-management-students/"
+  },
+  {
+    "id": "en34",
+    "image": "https://ui-avatars.com/api/?name=Farhad+Ebrahimi",
+    "name": "Farhad Ebrahimi",
+    "role": "Digital Artist, Iran",
+    "comment": "The digital painting guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://bitgraph.ir/digital-painting/"
+  },
+  {
+    "id": "en35",
+    "image": "https://ui-avatars.com/api/?name=Mina+Farhadi",
+    "name": "Mina Farhadi",
+    "role": "Graphic Designer, Iran",
+    "comment": "My art blog’s ranking improved in two weeks using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://bitgraph.ir/graphic-design-software/"
+  },
+  {
+    "id": "en36",
+    "image": "https://ui-avatars.com/api/?name=Hossein+Karimi",
+    "name": "Hossein Karimi",
+    "role": "Art Historian, Iran",
+    "comment": "The modern art guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.virgool.io/modern-art-history/"
+  },
+  {
+    "id": "en37",
+    "image": "https://ui-avatars.com/api/?name=Ali+Farahani",
+    "name": "Ali Farahani",
+    "role": "Environmental Blogger, Iran",
+    "comment": "The plastic reduction guide increased my site’s traffic by 35% in a month.",
+    "rating": 4.9,
+    "url": "https://www.virgool.io/plastic-free-home/"
+  },
+  {
+    "id": "en38",
+    "image": "https://ui-avatars.com/api/?name=Mohsen+Ebrahimi",
+    "name": "Mohsen Ebrahimi",
+    "role": "Energy Consultant, Iran",
+    "comment": "The renewable energy guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.moe.gov.ir/renewable-energy/"
+  },
+  {
+    "id": "en39",
+    "image": "https://ui-avatars.com/api/?name=Leila+Shariati",
+    "name": "Leila Shariati",
+    "role": "Energy Blogger, Iran",
+    "comment": "My energy blog’s ranking improved in two weeks using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://www.irena.org/renewable-energy/"
+  },
+  {
+    "id": "en40",
+    "image": "https://ui-avatars.com/api/?name=Amir+Farhadi",
+    "name": "Amir Farhadi",
+    "role": "Health Blogger, Iran",
+    "comment": "The air pollution guide increased my site’s traffic by 30% in a month.",
+    "rating": 4.7,
+    "url": "https://www.pezeshket.com/air-pollution/"
+  },
+  {
+    "id": "en41",
+    "image": "https://ui-avatars.com/api/?name=Behnam+Shokri",
+    "name": "Behnam Shokri",
+    "role": "Lawyer, Iran",
+    "comment": "The family lawyer guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.ghanoon.ir/family-lawyer/"
+  },
+  {
+    "id": "en42",
+    "image": "https://ui-avatars.com/api/?name=Shirin+Moradi",
+    "name": "Shirin Moradi",
+    "role": "Legal Blogger, Iran",
+    "comment": "My legal blog’s ranking improved in two weeks using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://www.dadgostari.ir/legal-advice/"
+  },
+  {
+    "id": "en43",
+    "image": "https://ui-avatars.com/api/?name=Laura+Wilson",
+    "name": "Laura Wilson",
+    "role": "Legal Advisor, UK",
+    "comment": "The family law content boosted my site’s engagement in just 10 days.",
+    "rating": 4.7,
+    "url": "https://www.vakil-azad.ir/family-law/"
+  },
+  {
+    "id": "en44",
+    "image": "https://ui-avatars.com/api/?name=Vahid+Farahani",
+    "name": "Vahid Farahani",
+    "role": "Labor Lawyer, Iran",
+    "comment": "The labor rights guide increased my site’s traffic by 35% in a month.",
+    "rating": 4.9,
+    "url": "https://www.ghanoon.ir/labor-rights/"
+  },
+  {
+    "id": "en45",
+    "image": "https://ui-avatars.com/api/?name=Sahar+Ebrahimi",
+    "name": "Sahar Ebrahimi",
+    "role": "Legal Writer, Iran",
+    "comment": "My labor rights blog’s ranking soared in two weeks with their strategies.",
+    "rating": 4.8,
+    "url": "https://www.kar.ir/illegal-dismissal/"
+  },
+  {
+    "id": "en46",
+    "image": "https://ui-avatars.com/api/?name=Kaveh+Azizi",
+    "name": "Kaveh Azizi",
+    "role": "Legal Consultant, Iran",
+    "comment": "The passport guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.police.ir/passport-2024/"
+  },
+  {
+    "id": "en47",
+    "image": "https://ui-avatars.com/api/?name=Mahsa+Rezaei",
+    "name": "Mahsa Rezaei",
+    "role": "Travel Blogger, Iran",
+    "comment": "My passport blog’s ranking improved in two weeks using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://www.mfa.ir/passport-guide/"
+  },
+  {
+    "id": "en48",
+    "image": "https://ui-avatars.com/api/?name=Anna+Martinez",
+    "name": "Anna Martinez",
+    "role": "Legal Advisor, Spain",
+    "comment": "The passport content boosted my site’s engagement in just 10 days.",
+    "rating": 4.9,
+    "url": "https://www.passport.gov.ir/"
+  },
+  {
+    "id": "en49",
+    "image": "https://ui-avatars.com/api/?name=Behzad+Karimi",
+    "name": "Behzad Karimi",
+    "role": "Fitness Coach, Iran",
+    "comment": "The bodybuilding guide increased my site’s traffic by 30% in a month.",
+    "rating": 4.7,
+    "url": "https://www.varzesh3.com/bodybuilding-plan/"
+  },
+  {
+    "id": "en50",
+    "image": "https://ui-avatars.com/api/?name=Farhad+Moradi",
+    "name": "Farhad Moradi",
+    "role": "Soccer Coach, Iran",
+    "comment": "The soccer shooting guide doubled my site’s traffic in one month!",
+    "rating": 5.0,
+    "url": "https://www.varzesh3.com/soccer-shooting/"
+  },
+  {
+    "id": "en51",
+    "image": "https://ui-avatars.com/api/?name=Mina+Azizi",
+    "name": "Mina Azizi",
+    "role": "Sports Blogger, Iran",
+    "comment": "My soccer blog’s ranking improved in two weeks using their SEO tips.",
+    "rating": 4.8,
+    "url": "https://www.footballcoach.ir/shooting-techniques/"
+  }
+]
