@@ -1,461 +1,461 @@
 [
   {
-    "id": "en35",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Brianna Green",
-    "role": "WordPress Expert, Kerman, Iran",
-    "comment": "اول فکر نمی‌کردم واقعی باشه، ولی بازدیدها تاثیر مستقیم روی رتبه‌ گوگل گذاشتن. البته سرعت پشتیبانی می‌تونست بهتر باشه. تحلیل آنالیز کلیدواژه‌ها کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 3.7,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en35"
+    "id": "en1",
+    "image": "https://thispersondoesnotexist.com/api/image1.jpg",
+    "name": "Ali Rezaei",
+    "role": "E-commerce Manager, Tehran",
+    "comment": "I was skeptical, but the traffic tools worked wonders. My store’s visits spiked by 30% in three weeks, dwell time’s up to 2.5 minutes, and I hit Google’s top 5 for ‘handmade jewelry Tehran’. So stoked!",
+    "rating": 4.7,
+    "url": "https://www.handmadepersianjewelry.com/?ref=ali_review"
   },
   {
-    "id": "en24",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Kimberly Cruz",
-    "role": "UI/UX Designer, Ahvaz, Iran",
-    "comment": "تعامل کاربرانم خیلی بیشتر شده، انگار دقیقاً مخاطب هدف میان سایت.",
-    "rating": 4.3,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en24"
-  },
-  {
-    "id": "en15",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Cindy Delacruz",
-    "role": "Social Media Manager, Shiraz, Iran",
-    "comment": "زمان موندن توی صفحاتم بیشتر شده، و این به شدت روی سئو تأثیر گذاشته.",
-    "rating": 4.1,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en15"
-  },
-  {
-    "id": "en34",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Lonnie Larson",
-    "role": "Web Developer, Qom, Iran",
-    "comment": "بعد از استفاده از سرویسشون، رسیدم به صفحه اول با سه تا کلیدواژه سخت.",
-    "rating": 4.2,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en34"
-  },
-  {
-    "id": "en14",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Brianna Gonzalez",
-    "role": "Digital Content Creator, Karaj, Iran",
-    "comment": "واقعا تفاوتی بین بازدید فیک و بازدید این سایت هست، چون رفتار کاربر واقعی‌تره.",
-    "rating": 4.2,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en14"
-  },
-  {
-    "id": "en21",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Thomas Davis",
-    "role": "Social Media Manager, Qom, Iran",
-    "comment": "بانس ریت سایتم به طرز عجیبی اومد پایین، نزدیک ۴۰٪!",
-    "rating": 4.8,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en21"
-  },
-  {
-    "id": "en22",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Jerry Barry",
-    "role": "Startup Founder, Shiraz, Iran",
-    "comment": "یکی از مشتریا گفت از طریق گوگل منو پیدا کرده، اونم دقیقاً بعد از استفاده از بازدیدها.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en22"
-  },
-  {
-    "id": "en28",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Charles Wiley",
-    "role": "Freelance Marketer, Shiraz, Iran",
-    "comment": "با دیدن آمار گوگل آنالیتیکس مطمئن شدم بازدیدها کاملاً واقعی بودن.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en28"
-  },
-  {
-    "id": "en16",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Katherine Stewart",
-    "role": "Digital Content Creator, Rasht, Iran",
-    "comment": "اولش شک داشتم، ولی وقتی توی سرچ کنسول رتبه‌ها بهتر شد، فهمیدم جواب داده.",
-    "rating": 4.8,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en16"
-  },
-  {
-    "id": "en40",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Todd Dunn",
-    "role": "Content Strategist, Mashhad, Iran",
-    "comment": "تو یک هفته ترافیکم تقریباً دو برابر شد، بدون هیچ کمپین تبلیغاتی دیگه‌ای. تحلیل برنامه‌ریزی محتوا کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.3,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en40"
-  },
-  {
-    "id": "en42",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Cheryl Mason",
-    "role": "Social Media Manager, Tehran, Iran",
-    "comment": "کاربرهایی که از این بازدیدها میان، توی صفحات مختلف می‌چرخن، این عالیه.",
-    "rating": 4.8,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en42"
-  },
-  {
-    "id": "en5",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Frank Davis",
-    "role": "Freelance Marketer, Tabriz, Iran",
-    "comment": "بیشترین تاثیرش برای من روی مقاله‌های بلندم بود که تا حالا ورودی نمی‌گرفتن. ابزارها خوب بودن ولی کاش آموزش ویدیویی هم داشت.",
-    "rating": 3.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en5"
-  },
-  {
-    "id": "en36",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Charles Miller",
-    "role": "Blog Writer, Isfahan, Iran",
-    "comment": "قبلاً بیشتر کاربرام سریع خارج می‌شدن، الان میان و چند صفحه می‌خونن.",
-    "rating": 4.1,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en36"
-  },
-  {
-    "id": "en39",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Casey Wallace",
-    "role": "Web Developer, Ahvaz, Iran",
-    "comment": "بازدید فیک نیست، الگوریتم گوگل گول نمی‌خوره، ولی این یکی جواب داد. البته سرعت پشتیبانی می‌تونست بهتر باشه. تحلیل تحلیل سئو کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 3.7,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en39"
-  },
-  {
-    "id": "en19",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Tammy Wade",
-    "role": "Startup Founder, Shiraz, Iran",
-    "comment": "حتی متوجه شدم بعضی از صفحات آرشیوی سایتم هم شروع کردن ورودی گرفتن.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en19"
-  },
-  {
-    "id": "en49",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Gary Jordan",
-    "role": "SEO Specialist, Qom, Iran",
-    "comment": "بازخورد واقعی گرفتم، چون تعداد تماس‌ها از طریق فرم تماس بیشتر شده. تحلیل داشبورد آنالیز کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en49"
-  },
-  {
-    "id": "en25",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Sandra Boyer",
-    "role": "Digital Content Creator, Sydney, Australia",
-    "comment": "مدت زیادی دنبال همچین سرویسی بودم که واقعا تاثیر داشته باشه، پیداش کردم. تحلیل بررسی رقبا کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.3,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en25"
-  },
-  {
-    "id": "en7",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Michael Camacho",
-    "role": "Startup Founder, Qom, Iran",
-    "comment": "ساده بگم: جواب می‌ده، اونم بدون دردسر.",
-    "rating": 4.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en7"
-  },
-  {
-    "id": "en11",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Latoya Gonzalez",
-    "role": "SEO Specialist, Los Angeles, USA",
-    "comment": "دیگه لازم نیست برای بالا اومدن فقط محتوای جدید بزنم، با همین بازدیدا هم نتیجه گرفتم. تحلیل آنالیز کلیدواژه‌ها کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.1,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en11"
-  },
-  {
-    "id": "en2",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Christopher Aguilar",
-    "role": "E-commerce Manager, Karaj, Iran",
-    "comment": "اگر دنبال ورودی ارگانیک واقعی هستی، این سرویس بهترین گزینه‌ست.",
-    "rating": 4.3,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en2"
-  },
-  {
-    "id": "en45",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Aaron Hendrix",
-    "role": "Web Developer, Berlin, Germany",
-    "comment": "تاثیر رو فقط توی عدد نمی‌بینی، واقعاً رفتار کاربران توی سایت فرق کرده.",
+    "id": "fa2",
+    "image": "https://thispersondoesnotexist.com/api/image2.jpg",
+    "name": "سارا حسینی",
+    "role": "بلاگر سبک زندگی، شیراز",
+    "comment": "ابزار سئوی این سایت حسابی به وبلاگم جون داد. نرخ پرشم از 65٪ اومد به 40٪ و یه پست در مورد ‘دکور مینیمال’ حالا تو تاپ 8 گوگله. فقط پشتیبانی یه کم دیر جواب داد.",
     "rating": 4.4,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en45"
-  },
-  {
-    "id": "en20",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "James Hoffman",
-    "role": "Online Business Owner, Ahvaz, Iran",
-    "comment": "Honestly, I didn't expect the visits to work, but my average session duration jumped significantly. تحلیل داشبورد آنالیز کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.6,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en20"
-  },
-  {
-    "id": "en43",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Stephen Neal",
-    "role": "Startup Founder, Rasht, Iran",
-    "comment": "After a week, I saw three of my pages enter the top 10 on Google. Totally worth it. ابزارها خوب بودن ولی کاش آموزش ویدیویی هم داشت.",
-    "rating": 3.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en43"
-  },
-  {
-    "id": "en18",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Kenneth Moore",
-    "role": "Marketing Consultant, Toronto, Canada",
-    "comment": "The bounce rate went from 70% to around 40%—something I hadn't managed in months.",
-    "rating": 4.6,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en18"
+    "url": "https://www.shirazlifestyle.com/?source=sara"
   },
   {
     "id": "en3",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Evelyn Edwards",
-    "role": "Social Media Manager, Mashhad, Iran",
-    "comment": "I started seeing traffic from search queries I hadn’t even optimized for. Impressive. تحلیل تحلیل سئو کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
+    "image": "https://thispersondoesnotexist.com/api/image3.jpg",
+    "name": "Emma Brown",
+    "role": "Content Creator, London",
+    "comment": "The content optimization guide was a game-changer. My blog’s bounce rate dropped to 35%, and readers stick around for 3 minutes now. My ‘sustainable fashion’ post is in Google’s top 10. Love it!",
+    "rating": 4.8,
+    "url": "https://www.ecofashionblog.com/?from=emma"
+  },
+  {
+    "id": "fa4",
+    "image": "https://thispersondoesnotexist.com/api/image4.jpg",
+    "name": "محمد کریمی",
+    "role": "مدیر استارتاپ، اصفهان",
+    "comment": "ابزارهای افزایش بازدید این سایت یه جورایی معجزه کرد! کاربرا حالا بیشتر تو سایتمون می‌چرخن و نرخ پرشمون به 38٪ رسیده. کلمه کلیدی ‘اپلیکیشن آموزشی’ اومد تو تاپ 7 گوگل.",
+    "rating": 4.6,
+    "url": "https://www.isfahanstartups.com/?ref=mohammad"
+  },
+  {
+    "id": "en5",
+    "image": "https://thispersondoesnotexist.com/api/image5.jpg",
+    "name": "Fatemeh Rahimi",
+    "role": "Digital Marketer, Mashhad",
+    "comment": "The SEO dashboard helped me track everything. My blog’s traffic grew by 25%, bounce rate’s down to 42%, and I’m in Google’s top 3 for ‘health tips Mashhad’. Absolutely amazing!",
     "rating": 4.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en3"
-  },
-  {
-    "id": "en1",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Grace Rowland",
-    "role": "Marketing Consultant, Kerman, Iran",
-    "comment": "Users stayed longer and checked multiple pages. That’s how I knew it wasn’t fake. تحلیل تحلیل سئو کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.7,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en1"
-  },
-  {
-    "id": "en10",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Michele Simpson",
-    "role": "Digital Content Creator, Shiraz, Iran",
-    "comment": "The traffic was legit. My conversion rate improved by nearly 18%. البته سرعت پشتیبانی می‌تونست بهتر باشه. تحلیل تحلیل سئو کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 3.7,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en10"
-  },
-  {
-    "id": "en33",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Kathryn Garcia",
-    "role": "Social Media Manager, Berlin, Germany",
-    "comment": "Google Analytics confirmed it—better dwell time, better engagement.",
-    "rating": 4.8,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en33"
-  },
-  {
-    "id": "en48",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Tonya Mayer",
-    "role": "E-commerce Manager, Sydney, Australia",
-    "comment": "This is the only service that actually helped my blog rank without shady tactics.",
-    "rating": 4.4,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en48"
-  },
-  {
-    "id": "en46",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Russell Smith",
-    "role": "Freelance Marketer, Kerman, Iran",
-    "comment": "I got real visitors from relevant geos, not random bots or proxies. تحلیل تحلیل سئو کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.2,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en46"
-  },
-  {
-    "id": "en8",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Jeffrey Thomas",
-    "role": "Freelance Marketer, Berlin, Germany",
-    "comment": "Just a week in and I was already seeing rankings improve on competitive keywords.",
-    "rating": 4.8,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en8"
-  },
-  {
-    "id": "en26",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Michelle Mendez",
-    "role": "Online Business Owner, Toronto, Canada",
-    "comment": "What I liked most was how natural the traffic flow seemed. No sudden spikes.",
-    "rating": 4.2,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en26"
+    "url": "https://www.mashhadhealth.com/?source=fatemeh"
   },
   {
     "id": "en6",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Gabriel Perry",
-    "role": "Online Business Owner, Sydney, Australia",
-    "comment": "Two clients reached out after finding me through a page that hadn’t ranked in months. تحلیل آنالیز کلیدواژه‌ها کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en6"
+    "image": "https://thispersondoesnotexist.com/api/image6.jpg",
+    "name": "James Carter",
+    "role": "E-commerce Consultant, Canada",
+    "comment": "Used their traffic boost for a client’s site, and the results were unreal. Dwell time hit 2.5 minutes, and we’re in Google’s top 5 for a tough keyword. Highly recommend it.",
+    "rating": 4.7,
+    "url": "https://www.canadianecomsolutions.com/?from=james"
   },
   {
-    "id": "en4",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Juan Ramos",
-    "role": "Web Developer, Kerman, Iran",
-    "comment": "The visits helped balance the traffic sources and reduce reliance on social media. ابزارها خوب بودن ولی کاش آموزش ویدیویی هم داشت.",
-    "rating": 3.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en4"
-  },
-  {
-    "id": "en51",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Ana Carter",
-    "role": "Marketing Consultant, Shiraz, Iran",
-    "comment": "Simple dashboard, solid results. Can’t ask for more. تحلیل تحلیل سئو کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.6,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en51"
-  },
-  {
-    "id": "en32",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Carrie Garcia",
-    "role": "Freelance Marketer, Berlin, Germany",
-    "comment": "Got my blog back on track after a traffic drop last month. تحلیل داشبورد آنالیز کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.1,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en32"
-  },
-  {
-    "id": "en12",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Amanda Guerrero",
-    "role": "Online Business Owner, Rasht, Iran",
-    "comment": "Noticed my contact form entries went up right after the visits started.",
-    "rating": 4.4,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en12"
-  },
-  {
-    "id": "en30",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Elizabeth Ford",
-    "role": "Startup Founder, Ahvaz, Iran",
-    "comment": "I’m finally getting organic leads, not just cold outreach traffic. تحلیل برنامه‌ریزی محتوا کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
+    "id": "fa7",
+    "image": "https://thispersondoesnotexist.com/api/image7.jpg",
+    "name": "نازنین احمدی",
+    "role": "نویسنده محتوا، تبریز",
+    "comment": "راهنمای بهینه‌سازی محتوا باعث شد کاربرا بیشتر تو سایتم بمونن. نرخ پرشم از 60٪ شد 33٪ و مقاله ‘تغذیه سالم’ تو تاپ 8 گوگله. فقط کاش ویدیو هم داشت.",
     "rating": 4.3,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en30"
+    "url": "https://www.tabriznutrition.com/?ref=nazanin"
   },
   {
-    "id": "en27",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Kayla Campbell",
-    "role": "Online Business Owner, Tehran, Iran",
-    "comment": "Every number in my Search Console improved—CTR, position, impressions.",
-    "rating": 4.1,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en27"
-  },
-  {
-    "id": "en50",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Misty Alvarez",
-    "role": "Digital Content Creator, Shiraz, Iran",
-    "comment": "I usually don’t trust traffic services, but this one was different. البته سرعت پشتیبانی می‌تونست بهتر باشه.",
-    "rating": 3.7,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en50"
+    "id": "en8",
+    "image": "https://thispersondoesnotexist.com/api/image8.jpg",
+    "name": "Hossein Shariati",
+    "role": "Blogger, Isfahan",
+    "comment": "The dwell time tips were spot on. Readers now spend over 2 minutes per post, bounce rate’s down to 30%, and my ‘Isfahan travel’ post hit Google’s top 10. Thrilled!",
+    "rating": 4.8,
+    "url": "https://www.isfahantravelguide.com/?source=hossein"
   },
   {
     "id": "en9",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Tracy Fields",
-    "role": "Digital Content Creator, Qom, Iran",
-    "comment": "I used it for a client’s campaign and they were impressed with the SEO boost.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en9"
-  },
-  {
-    "id": "en31",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Kristina Oneal",
-    "role": "SEO Specialist, Mashhad, Iran",
-    "comment": "Honestly, I didn't expect the visits to work, but my average session duration jumped significantly. تحلیل بررسی رقبا کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
-    "rating": 4.0,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en31"
-  },
-  {
-    "id": "en23",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Johnny Martin",
-    "role": "E-commerce Manager, Mashhad, Iran",
-    "comment": "After a week, I saw three of my pages enter the top 10 on Google. Totally worth it. تحلیل برنامه‌ریزی محتوا کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
+    "image": "https://thispersondoesnotexist.com/api/image9.jpg",
+    "name": "Leila Moradi",
+    "role": "Health Blogger, Tehran",
+    "comment": "Their traffic tools boosted my blog’s visits by 28% in a month. People stay longer, bounce rate’s at 36%, and my ‘mental health tips’ post is in Google’s top 6!",
     "rating": 4.6,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en23"
+    "url": "https://www.tehranwellness.com/?from=leila"
+  },
+  {
+    "id": "fa10",
+    "image": "https://thispersondoesnotexist.com/api/image10.jpg",
+    "name": "امیر حسینی",
+    "role": "فریلنسر دیجیتال، رشت",
+    "comment": "سرویس افزایش بازدید خیلی خوب بود. بازدیدهام 22٪ بیشتر شده و کاربرا تو چند صفحه می‌چرخن. کلمه کلیدی ‘طراحی سایت رشت’ تو تاپ 5 گوگله. مرسی واقعاً!",
+    "rating": 4.7,
+    "url": "https://www.rashtwebdesign.com/?source=amir"
+  },
+  {
+    "id": "en11",
+    "image": "https://thispersondoesnotexist.com/api/image11.jpg",
+    "name": "Zahra Ghasemi",
+    "role": "SEO Freelancer, Shiraz",
+    "comment": "The SEO tools made my client’s site pop. Bounce rate dropped to 40%, and we’re now in Google’s top 7 for ‘Shiraz restaurants’. Wish the dashboard had more filters, though.",
+    "rating": 4.4,
+    "url": "https://www.shirazfoodie.com/?ref=zahra"
+  },
+  {
+    "id": "fa12",
+    "image": "https://thispersondoesnotexist.com/api/image12.jpg",
+    "name": "بهنام شریفی",
+    "role": "مدیر محتوا، مشهد",
+    "comment": "با راهنمای سئو، بازدید سایتم 20٪ بیشتر شد و کاربرا حالا بیشتر تو صفحه‌هام می‌مونن. یه پست در مورد ‘سفر به مشهد’ تو تاپ 10 گوگله. فقط کاش مثال‌های بیشتری داشت.",
+    "rating": 4.3,
+    "url": "https://www.mashhadtravelblog.com/?source=behnam"
   },
   {
     "id": "en13",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Barbara Davis",
-    "role": "Online Business Owner, Karaj, Iran",
-    "comment": "The bounce rate went from 70% to around 40%—something I hadn't managed in months.",
-    "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en13"
+    "image": "https://thispersondoesnotexist.com/api/image13.jpg",
+    "name": "Sophie Taylor",
+    "role": "Digital Marketer, UK",
+    "comment": "The traffic boost service is legit. My client’s site saw a 25% traffic increase, dwell time’s up to 3 minutes, and we hit Google’s top 4 for a niche keyword. Super impressed!",
+    "rating": 4.8,
+    "url": "https://www.uksmallbusinesshub.com/?from=sophie"
   },
   {
-    "id": "en47",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "William Lee",
-    "role": "Online Business Owner, Rasht, Iran",
-    "comment": "I started seeing traffic from search queries I hadn’t even optimized for. Impressive. ابزارها خوب بودن ولی کاش آموزش ویدیویی هم داشت.",
-    "rating": 3.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en47"
+    "id": "en14",
+    "image": "https://thispersondoesnotexist.com/api/image14.jpg",
+    "name": "Reza Mohammadi",
+    "role": "Startup Founder, Tehran",
+    "comment": "The analytics dashboard helped me track user behavior. Bounce rate’s down to 38%, and my app’s landing page is now in Google’s top 8. Game-changer for us!",
+    "rating": 4.7,
+    "url": "https://www.tehranstartupnews.com/?source=reza"
+  },
+  {
+    "id": "fa15",
+    "image": "https://thispersondoesnotexist.com/api/image15.jpg",
+    "name": "مهسا احمدی",
+    "role": "بلاگر تغذیه، تبریز",
+    "comment": "راهنمای محتوا باعث شد پست‌هام تو شبکه‌های اجتماعی وایرال بشن. بازدیدهام 30٪ بیشتر شده و یه مقاله در مورد ‘رژیم کتو’ تو صفحه اول گوگله. خیلی راضیم!",
+    "rating": 4.8,
+    "url": "https://www.tabrizhealthyliving.com/?ref=mahsa"
+  },
+  {
+    "id": "en16",
+    "image": "https://thispersondoesnotexist.com/api/image16.jpg",
+    "name": "Nima Azizi",
+    "role": "Web Developer, Isfahan",
+    "comment": "The SEO guide got my client’s site to Google’s top 6 for ‘web design Isfahan’. Bounce rate dropped to 35%, and users are staying for over 2 minutes. Solid results!",
+    "rating": 4.6,
+    "url": "https://www.isfahanwebdev.com/?from=nima"
   },
   {
     "id": "en17",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Mariah Hopkins",
-    "role": "Startup Founder, Toronto, Canada",
-    "comment": "Users stayed longer and checked multiple pages. That’s how I knew it wasn’t fake.",
-    "rating": 4.1,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en17"
-  },
-  {
-    "id": "en38",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Karen Vaughan",
-    "role": "Online Business Owner, Tehran, Iran",
-    "comment": "The traffic was legit. My conversion rate improved by nearly 18%.",
+    "image": "https://thispersondoesnotexist.com/api/image17.jpg",
+    "name": "Laura Davis",
+    "role": "Blogger, Canada",
+    "comment": "The traffic tools boosted my blog’s visits by 22% in a month. Dwell time’s up, bounce rate’s down to 40%, and my ‘travel tips’ post is in Google’s top 9. Awesome!",
     "rating": 4.7,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en38"
+    "url": "https://www.canadatravelstories.com/?source=laura"
   },
   {
-    "id": "en44",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Anna Berry",
-    "role": "WordPress Expert, Shiraz, Iran",
-    "comment": "Google Analytics confirmed it—better dwell time, better engagement.",
+    "id": "fa18",
+    "image": "https://thispersondoesnotexist.com/api/image18.jpg",
+    "name": "شیرین مرادی",
+    "role": "مدرس آنلاین، رشت",
+    "comment": "با ابزارهای این سایت، بازدید دوره‌هام 25٪ بیشتر شد. نرخ پرشم اومد پایین و یه صفحه در مورد ‘آموزش فتوشاپ’ تو تاپ 7 گوگله. فقط پشتیبانی می‌تونست بهتر باشه.",
+    "rating": 4.4,
+    "url": "https://www.rashtonlinecourses.com/?ref=shirin"
+  },
+  {
+    "id": "en19",
+    "image": "https://thispersondoesnotexist.com/api/image19.jpg",
+    "name": "Kaveh Hosseini",
+    "role": "Content Creator, Shiraz",
+    "comment": "The content guide helped my blog shine. Bounce rate’s at 32%, dwell time’s over 3 minutes, and my ‘Persian culture’ post hit Google’s top 5. Couldn’t be happier!",
+    "rating": 4.8,
+    "url": "https://www.shirazcultureblog.com/?from=kaveh"
+  },
+  {
+    "id": "en20",
+    "image": "https://thispersondoesnotexist.com/api/image20.jpg",
+    "name": "Maryam Jafari",
+    "role": "SEO Specialist, Mashhad",
+    "comment": "The SEO tools were super easy to use. My client’s site traffic grew by 20%, bounce rate dropped to 37%, and we’re in Google’s top 6 for ‘Mashhad hotels’. Great stuff!",
+    "rating": 4.6,
+    "url": "https://www.mashhadhotelsguide.com/?source=maryam"
+  },
+  {
+    "id": "fa21",
+    "image": "https://thispersondoesnotexist.com/api/image21.jpg",
+    "name": "وحید عزیزی",
+    "role": "بلاگر تکنولوژی، تهران",
+    "comment": "ابزارهای تحلیل این سایت بهم کمک کرد رفتار کاربرا رو بهتر بفهمم. بازدیدهام 18٪ بیشتر شد و یه پست در مورد ‘گجت‌های 2025’ تو تاپ 10 گوگله. خیلی خوبه!",
+    "rating": 4.7,
+    "url": "https://www.tehrantechnews.com/?ref=vahid"
+  },
+  {
+    "id": "en22",
+    "image": "https://thispersondoesnotexist.com/api/image22.jpg",
+    "name": "Amir Karimi",
+    "role": "Freelancer, Tabriz",
+    "comment": "The traffic boost service got my portfolio site noticed. Dwell time’s up to 2 minutes, bounce rate’s down to 35%, and I’m in Google’s top 8 for ‘Tabriz graphic design’. Nice!",
     "rating": 4.5,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en44"
+    "url": "https://www.tabrizdesignstudio.com/?from=amir"
   },
   {
-    "id": "en37",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Andrew Gregory",
-    "role": "Web Developer, Sydney, Australia",
-    "comment": "This is the only service that actually helped my blog rank without shady tactics.",
+    "id": "en23",
+    "image": "https://thispersondoesnotexist.com/api/image23.jpg",
+    "name": "Sophie Martin",
+    "role": "Digital Marketer, USA",
+    "comment": "The SEO guide was a goldmine. My blog’s bounce rate dropped to 33%, and readers stay for 3 minutes. My ‘marketing trends’ post is now in Google’s top 4. Worth every penny!",
     "rating": 4.9,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en37"
+    "url": "https://www.usdigitalmarketing.com/?source=sophie"
   },
   {
-    "id": "en41",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Crystal Reyes",
-    "role": "Startup Founder, Rasht, Iran",
-    "comment": "I got real visitors from relevant geos, not random bots or proxies.",
-    "rating": 4.2,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en41"
+    "id": "fa24",
+    "image": "https://thispersondoesnotexist.com/api/image24.jpg",
+    "name": "بهزاد قاسمی",
+    "role": "مدیر فروشگاه آنلاین، اصفهان",
+    "comment": "با سرویس افزایش بازدید، فروش سایتم 15٪ بیشتر شد. کاربرا بیشتر تو صفحه محصولات می‌مونن و نرخ پرشم به 40٪ رسیده. کلمه ‘لوازم خانگی اصفهان’ تو تاپ 6 گوگله.",
+    "rating": 4.6,
+    "url": "https://www.isfahanappliances.com/?ref=behzad"
+  },
+  {
+    "id": "en25",
+    "image": "https://thispersondoesnotexist.com/api/image25.jpg",
+    "name": "Narges Rahimi",
+    "role": "Blogger, Tehran",
+    "comment": "The content optimization tips worked like magic. My bounce rate’s at 30%, dwell time’s up, and my ‘Tehran food’ post hit Google’s top 7. Could use more video guides, though.",
+    "rating": 4.4,
+    "url": "https://www.tehranfoodblog.com/?from=narges"
+  },
+  {
+    "id": "en26",
+    "image": "https://thispersondoesnotexist.com/api/image26.jpg",
+    "name": "Hassan Moradi",
+    "role": "Web Designer, Shiraz",
+    "comment": "The SEO tools got my client’s site to Google’s top 5 for ‘Shiraz web design’. Bounce rate’s at 35%, and users stay for over 2 minutes. Fantastic service!",
+    "rating": 4.7,
+    "url": "https://www.shirazwebsolutions.com/?source=hassan"
+  },
+  {
+    "id": "fa27",
+    "image": "https://thispersondoesnotexist.com/api/image27.jpg",
+    "name": "مینا فرهادی",
+    "role": "بلاگر مد، مشهد",
+    "comment": "راهنمای سئو باعث شد پست‌هام تو گوگل بهتر دیده بشن. بازدیدهام 20٪ بیشتر شده و نرخ پرشم به 35٪ رسیده. یه مقاله در مورد ‘مد 2025’ تو تاپ 8 گوگله.",
+    "rating": 4.5,
+    "url": "https://www.mashhadfashion.com/?ref=mina"
+  },
+  {
+    "id": "en28",
+    "image": "https://thispersondoesnotexist.com/api/image28.jpg",
+    "name": "Liam Wilson",
+    "role": "Content Creator, Australia",
+    "comment": "The traffic boost service is awesome. My blog’s visits grew by 25%, dwell time’s at 2.8 minutes, and my ‘tech reviews’ post is in Google’s top 6. Super happy!",
+    "rating": 4.8,
+    "url": "https://www.aussietechreviews.com/?from=liam"
   },
   {
     "id": "en29",
-    "image": "https://thispersondoesnotexist.com/image",
-    "name": "Christina Cannon",
-    "role": "Web Developer, Tabriz, Iran",
-    "comment": "Just a week in and I was already seeing rankings improve on competitive keywords. تحلیل برنامه‌ریزی محتوا کمک کرد عملکرد سایتم به‌وضوح بهتر بشه.",
+    "image": "https://thispersondoesnotexist.com/api/image29.jpg",
+    "name": "Shirin Azizi",
+    "role": "SEO Freelancer, Isfahan",
+    "comment": "The analytics dashboard is so user-friendly. My client’s bounce rate dropped to 34%, and we hit Google’s top 4 for ‘Isfahan tours’. Wish there were more advanced metrics.",
+    "rating": 4.4,
+    "url": "https://www.isfahantourguide.com/?source=shirin"
+  },
+  {
+    "id": "fa30",
+    "image": "https://thispersondoesnotexist.com/api/image30.jpg",
+    "name": "کاوه رضایی",
+    "role": "بلاگر سلامت، تبریز",
+    "comment": "ابزارهای این سایت باعث شد بازدید سایتم 18٪ بیشتر بشه. کاربرا حالا بیشتر تو صفحه‌ها می‌مونن و یه پست در مورد ‘ویتامین D’ تو تاپ 7 گوگله. خیلی خوبه!",
     "rating": 4.6,
-    "url": "https://landing-my-page.netlify.app/?utm_source=testimonial&utm_id=en29"
+    "url": "https://www.tabrizwellness.com/?ref=kaveh"
+  },
+  {
+    "id": "en31",
+    "image": "https://thispersondoesnotexist.com/api/image31.jpg",
+    "name": "Mohsen Ebrahimi",
+    "role": "Startup Owner, Tehran",
+    "comment": "The traffic tools boosted our site’s visits by 22%. Dwell time’s up to 2 minutes, and our ‘startup tips’ page is in Google’s top 8. Couldn’t ask for more!",
+    "rating": 4.7,
+    "url": "https://www.tehranentrepreneur.com/?from=mohsen"
+  },
+  {
+    "id": "en32",
+    "image": "https://thispersondoesnotexist.com/api/image32.jpg",
+    "name": "Sara Ghasemi",
+    "role": "Blogger, Mashhad",
+    "comment": "The content guide helped my blog get noticed. Bounce rate’s down to 36%, and my ‘Mashhad culture’ post hit Google’s top 6. Wish they had more social media tips.",
+    "rating": 4.3,
+    "url": "https://www.mashhadculture.com/?source=sara"
+  },
+  {
+    "id": "fa33",
+    "image": "https://thispersondoesnotexist.com/api/image33.jpg",
+    "name": "شیدا کرمی",
+    "role": "فریلنسر محتوا، رشت",
+    "comment": "با راهنمای بهینه‌سازی، بازدید پست‌هام 25٪ بیشتر شد. نرخ پرشم به 32٪ رسیده و یه مقاله در مورد ‘سفر به شمال’ تو تاپ 9 گوگله. فقط کاش پشتیبانی سریع‌تر بود.",
+    "rating": 4.4,
+    "url": "https://www.rashttravelstories.com/?ref=shida"
+  },
+  {
+    "id": "en34",
+    "image": "https://thispersondoesnotexist.com/api/image34.jpg",
+    "name": "Behnam Shokri",
+    "role": "Web Developer, Shiraz",
+    "comment": "The SEO tools got my client’s site to Google’s top 5 for ‘Shiraz real estate’. Bounce rate’s at 35%, and users stay for over 2 minutes. Fantastic service!",
+    "rating": 4.8,
+    "url": "https://www.shirazrealty.com/?from=behnam"
+  },
+  {
+    "id": "en35",
+    "image": "https://thispersondoesnotexist.com/api/image35.jpg",
+    "name": "Brianna Green",
+    "role": "Content Creator, USA",
+    "comment": "The traffic boost service is unreal. My blog’s visits jumped by 20%, dwell time’s at 2.7 minutes, and my ‘green living’ post is in Google’s top 7. So worth it!",
+    "rating": 4.7,
+    "url": "https://www.greenlivingusa.com/?source=brianna"
+  },
+  {
+    "id": "fa36",
+    "image": "https://thispersondoesnotexist.com/api/image36.jpg",
+    "name": "فاطمه رحیمی",
+    "role": "بلاگر دکوراسیون، تهران",
+    "comment": "ابزارهای سئو باعث شد بازدید سایتم 22٪ بیشتر بشه. نرخ پرشم به 34٪ رسیده و یه پست در مورد ‘دکوراسیون مدرن’ تو تاپ 6 گوگله. خیلی راضیم!",
+    "rating": 4.6,
+    "url": "https://www.tehrandecor.com/?ref=fatemeh"
+  },
+  {
+    "id": "en37",
+    "image": "https://thispersondoesnotexist.com/api/image37.jpg",
+    "name": "Ehsan Jafari",
+    "role": "Digital Marketer, Mashhad",
+    "comment": "The analytics tools helped me understand user behavior. Traffic’s up by 20%, and my ‘Mashhad events’ page is in Google’s top 9. Really solid platform!",
+    "rating": 4.5,
+    "url": "https://www.mashhadevents.com/?from=ehsan"
+  },
+  {
+    "id": "fa38",
+    "image": "https://thispersondoesnotexist.com/api/image38.jpg",
+    "name": "نرگس حسینی",
+    "role": "بلاگر سفر، شیراز",
+    "comment": "با راهنمای محتوا، پست‌هام تو گوگل بهتر دیده شدن. بازدید سایتم 18٪ بیشتر شده و نرخ پرشم به 33٪ رسیده. یه مقاله در مورد ‘جاذبه‌های شیراز’ تو تاپ 7 گوگله.",
+    "rating": 4.7,
+    "url": "https://www.shirazadventures.com/?ref=narges"
+  },
+  {
+    "id": "en39",
+    "image": "https://thispersondoesnotexist.com/api/image39.jpg",
+    "name": "Tom Harris",
+    "role": "SEO Consultant, UK",
+    "comment": "The traffic tools delivered. My client’s site saw a 24% traffic increase, dwell time’s up to 2.9 minutes, and we’re in Google’s top 5 for a niche term. Brilliant!",
+    "rating": 4.8,
+    "url": "https://www.ukseoservices.com/?from=tom"
+  },
+  {
+    "id": "en40",
+    "image": "https://thispersondoesnotexist.com/api/image40.jpg",
+    "name": "Parisa Ghaffari",
+    "role": "Content Creator, Tehran",
+    "comment": "The SEO guide was super helpful. My blog’s bounce rate dropped to 31%, and my ‘Tehran lifestyle’ post is in Google’s top 6. Could use more case studies, though.",
+    "rating": 4.4,
+    "url": "https://www.tehranvibes.com/?source=parisa"
+  },
+  {
+    "id": "fa41",
+    "image": "https://thispersondoesnotexist.com/api/image41.jpg",
+    "name": "رامین شریفی",
+    "role": "فریلنسر سئو، تبریز",
+    "comment": "ابزارهای تحلیل این سایت بهم کمک کرد تا رفتار کاربرا رو بهتر بفهمم. بازدید سایتم 20٪ بیشتر شده و یه صفحه در مورد ‘سئو تبریز’ تو تاپ 8 گوگله. عالیه!",
+    "rating": 4.6,
+    "url": "https://www.tabrizseo.com/?ref=ramin"
+  },
+  {
+    "id": "en42",
+    "image": "https://thispersondoesnotexist.com/api/image42.jpg",
+    "name": "Olivia Clark",
+    "role": "Blogger, Canada",
+    "comment": "The content optimization tools worked wonders. Bounce rate’s down to 34%, and my ‘Canada travel’ post hit Google’s top 7. Wish they had more templates.",
+    "rating": 4.5,
+    "url": "https://www.canadatravelblog.com/?from=olivia"
+  },
+  {
+    "id": "en43",
+    "image": "https://thispersondoesnotexist.com/api/image43.jpg",
+    "name": "Mehrdad Rahimi",
+    "role": "Web Developer, Isfahan",
+    "comment": "The SEO tools got my client’s site to Google’s top 4 for ‘Isfahan real estate’. Bounce rate’s at 33%, and users stay longer. Fantastic platform!",
+    "rating": 4.8,
+    "url": "https://www.isfahanproperties.com/?source=mehrdad"
+  },
+  {
+    "id": "fa44",
+    "image": "https://thispersondoesnotexist.com/api/image44.jpg",
+    "name": "سحر احمدی",
+    "role": "بلاگر زیبایی، رشت",
+    "comment": "با ابزارهای این سایت، بازدید سایتم 19٪ بیشتر شد. نرخ پرشم به 35٪ رسیده و یه پست در مورد ‘آرایش طبیعی’ تو تاپ 6 گوگله. خیلی خوبه!",
+    "rating": 4.6,
+    "url": "https://www.rashtbeauty.com/?ref=sahar"
+  },
+  {
+    "id": "en45",
+    "image": "https://thispersondoesnotexist.com/api/image45.jpg",
+    "name": "Daniel Lee",
+    "role": "Digital Marketer, Australia",
+    "comment": "The traffic boost service is top-notch. My blog’s visits grew by 23%, dwell time’s at 2.6 minutes, and my ‘tech gadgets’ post is in Google’s top 8. Love it!",
+    "rating": 4.7,
+    "url": "https://www.aussiegearreviews.com/?from=daniel"
+  },
+  {
+    "id": "en46",
+    "image": "https://thispersondoesnotexist.com/api/image46.jpg",
+    "name": "Neda Hosseini",
+    "role": "Content Creator, Shiraz",
+    "comment": "The content guide helped my blog stand out. Bounce rate’s at 32%, and my ‘Shiraz culture’ post hit Google’s top 5. Could use more video tutorials.",
+    "rating": 4.4,
+    "url": "https://www.shirazheritage.com/?source=neda"
+  },
+  {
+    "id": "fa47",
+    "image": "https://thispersondoesnotexist.com/api/image47.jpg",
+    "name": "آرمان کریمی",
+    "role": "مدیر استارتاپ، تهران",
+    "comment": "ابزارهای افزایش بازدید باعث شد بازدید سایتم 21٪ بیشتر بشه. نرخ پرشم به 36٪ رسیده و یه صفحه در مورد ‘استارتاپ تهران’ تو تاپ 7 گوگله. عالیه!",
+    "rating": 4.6,
+    "url": "https://www.tehranventures.com/?ref=arman"
+  },
+  {
+    "id": "en48",
+    "image": "https://thispersondoesnotexist.com/api/image48.jpg",
+    "name": "Emily Watson",
+    "role": "SEO Specialist, UK",
+    "comment": "The SEO tools were a lifesaver. My client’s site traffic grew by 22%, bounce rate’s at 34%, and we’re in Google’s top 6 for a competitive keyword. Amazing!",
+    "rating": 4.8,
+    "url": "https://www.ukdigitalgrowth.com/?from=emily"
+  },
+  {
+    "id": "en49",
+    "image": "https://thispersondoesnotexist.com/api/image49.jpg",
+    "name": "Hamed Ghaffari",
+    "role": "Blogger, Mashhad",
+    "comment": "The traffic tools boosted my blog’s visits by 20%. Dwell time’s up to 2.5 minutes, and my ‘Mashhad travel’ post is in Google’s top 9. Really solid!",
+    "rating": 4.7,
+    "url": "https://www.mashhadadventures.com/?source=hamed"
+  },
+  {
+    "id": "fa50",
+    "image": "https://thispersondoesnotexist.com/api/image50.jpg",
+    "name": "لیلا شریفی",
+    "role": "بلاگر غذا، تبریز",
+    "comment": "با راهنمای محتوا، پست‌هام تو گوگل بهتر دیده شدن. بازدید سایتم 18٪ بیشتر شده و یه مقاله در مورد ‘غذاهای سنتی تبریز’ تو تاپ 8 گوگله. خیلی راضیم!",
+    "rating": 4.6,
+    "url": "https://www.tabrizcuisine.com/?ref=leila"
+  },
+  {
+    "id": "en51",
+    "image": "https://thispersondoesnotexist.com/api/image51.jpg",
+    "name": "Lucas Brown",
+    "role": "Content Creator, Canada",
+    "comment": "The SEO guide was a game-changer. My blog’s bounce rate dropped to 33%, and my ‘Canada lifestyle’ post hit Google’s top 7. Wish they had more advanced tips.",
+    "rating": 4.5,
+    "url": "https://www.canadalifestyleblog.com/?from=lucas"
   }
 ]
